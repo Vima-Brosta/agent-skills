@@ -1,0 +1,8 @@
+{
+  "name": "agent-commerce",
+  "description": "Watch web pages, schedule wakeups, hold callbacks, and buy signed verdicts and reputation reads, paying per request with x402.",
+  "version": "1.0.0",
+  "author": { "name": "Vima Brosta LLC", "email": "contact@vimabrosta.com" },
+  "homepage": "https://stumble.vimabrosta.com",
+  "keywords": ["x402", "agents", "monitoring", "webhooks", "verification", "reputation"]
+}

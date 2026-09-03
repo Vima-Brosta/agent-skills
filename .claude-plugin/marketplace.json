@@ -1,0 +1,19 @@
+{
+  "name": "vimabrosta",
+  "owner": { "name": "Vima Brosta LLC", "email": "contact@vimabrosta.com" },
+  "metadata": {
+    "description": "Skills for paid agent services by Vima Brosta LLC: Stumble (watch, wake, inbox) and Umpire (signed verdicts, reputation).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "agent-commerce",
+      "source": "./",
+      "description": "Watch web pages, schedule wakeups, hold callbacks, and buy signed verdicts and reputation reads, paying per request with x402.",
+      "version": "1.0.0",
+      "author": { "name": "Vima Brosta LLC" },
+      "homepage": "https://stumble.vimabrosta.com",
+      "keywords": ["x402", "agents", "monitoring", "webhooks", "verification", "reputation"]
+    }
+  ]
+}
